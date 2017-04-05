@@ -1,4 +1,4 @@
-_testing github pages as engine behind www.yukongis.ca_
+yukongis.ca
+===========
 
-Interim preview link: **http://maphew.github.io/yukongis.ca**
-
+testing github pages as engine behind www.yukongis.ca

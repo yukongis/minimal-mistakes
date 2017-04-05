@@ -1,8 +1,23 @@
-title: Yukongis.ca
-description: testing github pages as engine behind www.yukongis.ca
-google_analytics: UA-3184458-6
-show_downloads: true
-theme: jekyll-theme-tactile
-
-gems:
-  - jekyll-mentions
+---
+title: Yukon GIS
+timezone: America/Los_Angeles
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+permalink: pretty
