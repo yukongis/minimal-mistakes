@@ -1,11 +1,9 @@
 ---
-ID: 97
 post_title: About
 author: matt
 post_date: 2014-02-05 23:18:23
-post_excerpt: ""
 layout: page
-permalink: http://www.yukongis.ca/about-2/
+permalink: /about/
 published: true
 ---
 This website was put up to make it easier for the *Yukon GIS Users Group* to share their technical tips and workarounds in a venue with more permanence than email. The mailing list for the users group is handled by [Nicole Parry][1] and [Matt Wilkie][2]; just send one of them a message to be added or removed from the list.
