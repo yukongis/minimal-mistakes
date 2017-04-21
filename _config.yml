@@ -111,6 +111,8 @@ author:
 include:
   - .htaccess
   - _pages
+  - _posts
+  
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -174,8 +176,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
+timezone: PST
 
 # Plugins
 gems:
