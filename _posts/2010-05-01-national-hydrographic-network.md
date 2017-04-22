@@ -2,9 +2,10 @@
 ID: 41
 post_title: National Hydrographic Network
 author: matt
-post_date: 2010-05-01 23:00:51
+post_date: 2010-05-01T23:00:51.000Z
 layout: post
 published: true
+title: National Hydrographic Network
 ---
 [caption id="attachment_42" align="alignright" width="300"][<img class="size-medium wp-image-42" alt="NHN with waterbodies and stream network directions showing" src="http://reboot.yukongis.ca/wp-content/uploads/2013/12/nhn-300x231.jpg" width="300" height="231" />][1] NHN with waterbodies and stream network directions showing[/caption] The authoritative NHN homepage is on <a title="http://geobase.ca/geobase/en/data/nhn/index.html" href="http://geobase.ca/geobase/en/data/nhn/index.html" target="_blank" rel="external nofollow">geobase.ca</a> As of spring 2010 it is distributed in shape, kml, gml, and file geodatabase formats. Direct download address is <a title="ftp://ftp2.cits.rncan.gc.ca/pub/geobase/official/nhn_rhn/" href="ftp://ftp2.cits.rncan.gc.ca/pub/geobase/official/nhn_rhn/" target="_blank" rel="external nofollow">ftp://ftp2.cits.rncan.gc.ca/pub/geob...icial/nhn_rhn/</a>, which is throttled to a maximum of 2 connections per ip address. Http to same is not throttled, however date stamps are not retained then (and it's a little harder to bulk download). Attached is a <a title="http://www.filezilla.org/" href="http://www.filezilla.org/" target="_blank" rel="external nofollow">Filezilla </a>download queue for zones 08,09&10 (BC, Yukon, western NWT) in file geodatabase which adds up to about 12gb or so. <p style="padding-left: 30px;">
   <a href="http://reboot.yukongis.ca/2010/05/national-hydrographic-network/nhn_file-gdb_download_queue-xml/" rel="attachment wp-att-44">NHN_file-gdb_download_queue.xml</a>
