@@ -2,9 +2,10 @@
 ID: 94
 post_title: Backdoor to US Seamless National Elevation Data (MD)
 author: matt
-post_date: 2007-04-03 23:37:00
+post_date: 2007-04-03T23:37:00.000Z
 layout: post
 published: true
+title: Backdoor to US Seamless National Elevation Data
 ---
 I recently needed to acquire a large swath of elevation data for Alaska. After fighting through the web map request interface for [Seamless NED ][1]for several hours, I finally discovered that one can go straight to the extractor service and request arbitrary areas with a properly formed URL.
 
