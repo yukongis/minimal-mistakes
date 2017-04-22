@@ -2,9 +2,10 @@
 ID: 47
 post_title: Yukon Place Names
 author: matt
-post_date: 2007-11-15 23:20:11
+post_date: 2007-11-15T23:20:11.000Z
 layout: post
 published: true
+title: Yukon Place Names
 ---
 *Canadian geographic placenames board now publishes all their data for free via a variety of formats and services on the <a title="http://gnss.nrcan.gc.ca/index_e.html" href="http://gnss.nrcan.gc.ca/index_e.html" target="_top" rel="external nofollow">Canadian Geographical Names Service (CGNS)</a> (yay!). I decided to try and build a script which could be run once a year or on an as-needed basis to update a Yukon Gazateer. The automation part was a failure, but the data part is okay. What follows are my notes to myself, so I don’t know how much you’ll be able to get out of it.  **— Matt Wilkie*
 
