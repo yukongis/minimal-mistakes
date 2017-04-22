@@ -2,15 +2,15 @@
 ID: 39
 post_title: Georeferenced Survey Plans
 author: matt
-post_date: 2010-02-16 22:53:45
+post_date: 2010-02-16T22:53:45.000Z
 layout: post
 published: true
+title: Georeferenced Survey Plans
 ---
-*The federal government has plans for all surveyed parcels online as images, but they aren't georeferenced. Here is a short recipe and dataset for fixing that.* <div id="section_1">
-  <h2>
-    Process:
-  </h2>
-  
+*The federal government has plans for all surveyed parcels online as images, but they aren't georeferenced. Here is a short recipe and dataset for fixing that.* 
+
+## Process:
+
   <ol>
     <li>
       Download plan as regular tiff from Canada Centre for Cadastral Management (CCM) -<a title="http://www.lsd.nrcan.gc.ca/english/srisdocs_e.asp?RG=YT&PLN=93521" href="http://www.lsd.nrcan.gc.ca/english/srisdocs_e.asp?RG=YT&PLN=93521" target="_top" rel="external nofollow">http://www.lsd.nrcan.gc.ca/english/srisdocs_e.asp?RG=YT&PLN=93521</a> where RG=YT is <em>Region = Yukon</em>, and PLN=93521 is <em>Plan# 93521</em>. For bulk download see <a title="http://sydney.freeearthfoundation.com/mattwilkie/Survey_Plans/scripts/" href="http://sydney.freeearthfoundation.com/mattwilkie/Survey_Plans/scripts/" target="_top" rel="external nofollow">scripts</a>: <code>    fetch-CLSplans 84574 85779 86458 etc...</code>
