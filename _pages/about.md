@@ -2,7 +2,6 @@
 post_title: About
 author: matt
 post_date: 2014-02-05 23:18:23
-layout: page
 permalink: /about/
 published: true
 ---
