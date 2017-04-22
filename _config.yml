@@ -248,3 +248,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+# Prose.io defaults
+prose:
+  ignore: ["_data","_includes","_layouts","_sass","assets", ".gitignore","CNAME","Gemfile","LICENSE.txt","Rakefile","banner.js","package.json"]
+  media: "/media"
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+        
